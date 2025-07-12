@@ -1,0 +1,37 @@
+[
+  {
+    "id": "coffee",
+    "name": "Café",
+    "price": 50,
+    "description": "Um delicioso café para começar o dia",
+    "emoji": "☕"
+  },
+  {
+    "id": "pizza",
+    "name": "Pizza",
+    "price": 150,
+    "description": "Uma pizza quentinha e saborosa",
+    "emoji": "🍕"
+  },
+  {
+    "id": "gift",
+    "name": "Presente",
+    "price": 200,
+    "description": "Um presente especial para alguém",
+    "emoji": "🎁"
+  },
+  {
+    "id": "crown",
+    "name": "Coroa",
+    "price": 500,
+    "description": "Uma coroa dourada para os ricos",
+    "emoji": "👑"
+  },
+  {
+    "id": "diamond",
+    "name": "Diamante",
+    "price": 1000,
+    "description": "Um diamante raro e valioso",
+    "emoji": "💎"
+  }
+]
